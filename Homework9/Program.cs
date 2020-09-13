@@ -22,7 +22,7 @@ namespace Homework9
 
             Prototype.Prototype.F();
 
-
+            Command.Command.F();
 
             Console.ReadKey();
         }

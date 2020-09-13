@@ -12,13 +12,9 @@ namespace Homework9.Prototype
         {
             ITransport figure = new Plane(40000);
             ITransport clonedFigure = figure.Clone();
-            figure.GetInfo();
-            clonedFigure.GetInfo();
 
             figure = new Car(30);
             clonedFigure = figure.Clone();
-            figure.GetInfo();
-            clonedFigure.GetInfo();
 
             Console.ReadLine();
         }

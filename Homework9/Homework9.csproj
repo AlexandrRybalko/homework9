@@ -51,6 +51,7 @@
     <Compile Include="Builder\HouseBuilder.cs" />
     <Compile Include="Builder\Floor.cs" />
     <Compile Include="Builder\WoodenHouseBuilder.cs" />
+    <Compile Include="Command\Command.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Prototype\Prototype.cs" />
